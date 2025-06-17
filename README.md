@@ -80,24 +80,6 @@ lightwave-wsn/
 
 ---
 
-## 👨‍💻 Contributors
-
-- **Anshuman**
-- **Utkarsh Maurya**
-- **Mayank Mankar**
-
-🎓 *Under the guidance of:*  
-**Prof. (Dr.) Arundhati A. Shinde** – HOD, ECE  
-**Prof. (Dr.) Dhiraj M. Dhane** – Project Coordinator
-
----
-
-## 🎯 Course Outcome
-
-✔️ **CO1 Achieved** – Apply knowledge of optical networks to design a lightwave-based WSN.
-
----
-
 ## 📚 References
 
 - Ghassemlooy, Z., Popoola, W. O., & Rajbhandari, S. - Optical Wireless Communications
@@ -106,9 +88,3 @@ lightwave-wsn/
 - [IEEE Xplore](https://ieeexplore.ieee.org/)
 - [ScienceDirect](https://www.sciencedirect.com/)
 - [ResearchGate](https://www.researchgate.net/)
-
----
-
-## 📜 License
-
-This repository is intended for academic and educational use only.
